@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvanceradDotNet-Labb7", "AvanceradDotNet-Labb7.csproj", "{D0DE12BE-C39A-451F-9C2E-1027B6494A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvanceradDotNet-Labb7-Tests", "..\AvanceradDotNet-Labb7-Tests\AvanceradDotNet-Labb7-Tests.csproj", "{A0421BBD-3030-456E-8B07-A24F04173FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0DE12BE-C39A-451F-9C2E-1027B6494A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DE12BE-C39A-451F-9C2E-1027B6494A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DE12BE-C39A-451F-9C2E-1027B6494A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DE12BE-C39A-451F-9C2E-1027B6494A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0421BBD-3030-456E-8B07-A24F04173FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0421BBD-3030-456E-8B07-A24F04173FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0421BBD-3030-456E-8B07-A24F04173FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0421BBD-3030-456E-8B07-A24F04173FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D17B1FB2-542A-49B5-8B01-5DD4E8C61BC6}
+	EndGlobalSection
+EndGlobal
